@@ -1,1 +1,1 @@
-# EBGRS
+# Online Grievance Redressal System
